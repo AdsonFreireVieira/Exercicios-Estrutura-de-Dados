@@ -1,4 +1,4 @@
-package Exercicios.Exercicios01;
+package Exercicios.nivel01;
 
 import java.util.Arrays;
 import java.util.Scanner;
